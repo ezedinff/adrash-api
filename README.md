@@ -1,2 +1,2 @@
-# adrash-api
-Api for adrash
+# Adrash api
+Api for adrash application
